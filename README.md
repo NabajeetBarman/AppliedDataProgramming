@@ -15,6 +15,18 @@ The Jupyter notebook `Introduction_to_NumPy.ipynb` introduces NumPy and basic Nu
     Initializing a NumPy array
     NumPy Operations
     Basic Array Operations
+    
+## NumPy Advanced 
+
+The Jupyter notebook `Numpy_Advanced_(Maths_and_Stats).ipynb` introduces advanced concepts of NumPy and advanced NumPy operations. Topics covered includes:
+    
+    Basic Array Operations
+    NumPy Broadcasting
+    Advanced Array Operations
+    File Input and Output with arrays
+    Linear Algebra
+    Introduction to Scipy
+
 
 ## Citation
 
