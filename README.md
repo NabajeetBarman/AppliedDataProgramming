@@ -27,6 +27,15 @@ The Jupyter notebook `Numpy_Advanced_(Maths_and_Stats).ipynb` introduces advance
     Linear Algebra
     Introduction to Scipy
 
+## Introduction to Basic Visualization using Matplotlib
+
+The Jupyter notebook `Introduction_to_Basic_Visualization_using_Matplotlib.ipynb` introduces the basics of visualization along with some basic plots using Matplotlib. Topics covered includes:
+
+    Introduction to Matplotlib
+    Plotting arrays with Matplotlib
+    Customizing plot properties
+    Creating a simple plot
+    Subplots
 
 ## Citation
 
